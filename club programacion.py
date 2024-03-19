@@ -1,4 +1,4 @@
-#Un consultorio medioc requiere llevar un registro de la asistencia dde personas en las diferentes especialidades 
+#Un consultorio medico requiere llevar un registro de la asistencia dde personas en las diferentes especialidades 
 #odontologia,ginecologia,consulta general,maternidad,infancia
 
 import os
